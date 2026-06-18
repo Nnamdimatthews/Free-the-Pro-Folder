@@ -1,0 +1,5 @@
+print("Hello! we're here to congratulate you! first, let's get your name!")
+name = input("enter your name: ")
+Announcement = input("Hello" + name + "! pygo need's what hobby you do, that you are super good at!")
+Hobby = input("Enter Your Hobby: ")
+Congrats = input("Congrats on your "+ Hobby + "! Keep up the good work.")
